@@ -23,7 +23,7 @@
 ### 🔧 Tools & Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,react,nestjs,nextjs,flutter,mysql,postgresql,nginx,aws,kubernetes,grafana,docker,gitlab,github,jenkins,linux&perline=8" />
+  <img src="https://skillicons.dev/icons?i=dotnet,nestjs,react,nextjs,flutter,mysql,postgresql,nginx,aws,kubernetes,grafana,docker,gitlab,github,jenkins,linux&perline=8" />
 </p>
 
 ---
