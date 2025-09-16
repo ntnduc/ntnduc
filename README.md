@@ -43,6 +43,7 @@
 - 🔗 [Home tour](https://github.com/ntnduc/home-tour): Tenancy/boarding house management app
 - 🔗 [Hotel](https://github.com/ntnduc/hotel_dotNet): Hotel management application (.NET/C#).  
 - 🔗 [Time table](https://github.com/ntnduc/timetable): TDTU timetable app (Flutter).  
+- 🔗 [CMS Strapi + Next.js](https://github.com/ntnduc/starter-strapi): Next.js + Strapi Boilerplate.
 
 ---
 

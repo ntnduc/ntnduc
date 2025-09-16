@@ -43,6 +43,7 @@
 - 🔗 [Home tour](https://github.com/ntnduc/home-tour): App quản lý nhà trọ
 - 🔗 [Hotel](https://github.com/ntnduc/hotel_dotNet): Ứng dụng quản lý khách sạn (.NET/C#).  
 - 🔗 [Time table](https://github.com/ntnduc/timetable): Ứng dụng thời khóa biểu TDTU (Flutter).  
+- 🔗 [CMS Strapi + Next.js](https://github.com/ntnduc/starter-strapi): Next.js + Strapi Boilerplate.
 
 ---
 
